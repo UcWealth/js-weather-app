@@ -35,3 +35,8 @@ body{
 .degree-section h2 {
     font-size: 40px;
 }
+footer a {
+    text-decoration: none;
+    color:wheat;
+    margin-bottom: 0;
+}
